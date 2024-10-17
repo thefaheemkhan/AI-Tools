@@ -4,3 +4,5 @@ Here i will manage to list almost all famous and useful tools that can help to o
 
 1. ChatGPT
 2. GoogLe Gemini
+3. Midjourney
+4. 
