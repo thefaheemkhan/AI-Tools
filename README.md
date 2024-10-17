@@ -6,3 +6,4 @@ Here i will manage to list almost all famous and useful tools that can help to o
 2. GoogLe Gemini
 3. Midjourney
 4. Adobe firefly
+5. DALL-E
